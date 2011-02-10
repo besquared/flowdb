@@ -1,0 +1,2 @@
+grammar Sequential OLAP;
+
